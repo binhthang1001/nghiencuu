@@ -17,3 +17,4 @@ Vào ngày Thế giới Không thuốc lá 31 tháng 5 năm 2018, WHO cùng Hộ
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gdRZZLKeeTM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Bỏ hút thuốc không bao giờ là quá muộn. Trong vòng 20 phút, nhịp tim và huyết áp của bạn sẽ giảm nhẹ. Sau 1 năm cai thuốc lá, nguy cơ mắc bệnh tim mạch vành của bạn chỉ bằng một nửa so với người hút thuốc. Sau 15 năm, nguy cơ mắc bệnh mạch vành là như một người không hút thuốc.
+
